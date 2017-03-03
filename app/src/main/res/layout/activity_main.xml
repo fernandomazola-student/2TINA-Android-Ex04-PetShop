@@ -21,7 +21,8 @@
     <RadioGroup
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="@dimen/margin_radio_bottom">
+        android:layout_marginBottom="@dimen/margin_radio_bottom"
+        android:id="@+id/rgGroup">
 
         <RadioButton
             android:layout_width="wrap_content"
